@@ -71,4 +71,4 @@ Now, you are good to go for jupyter notebook.
 ### **For More Information**
 Contact <a href="https://geography.ua.edu/people/sagy-cohen/" target="_blank">Dr. Sagy Cohen</a>
  (sagy.cohen@ua.edu),
- (abaruah@ua.edu)
+ Dr Anupal BAruah,(abaruah@ua.edu)
